@@ -4,7 +4,7 @@
 
 SpringBootLearning && SpringCloudLearning
 ===
-SpringBoot+微服务学习项目。
+SpringBoot+微服务学习项目。2020.5.21最新：新增websockt与quartz实现定时任务
 <br>
 http://blog.csdn.net/moshowgame
 
